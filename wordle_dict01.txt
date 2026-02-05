@@ -7,9 +7,7 @@ watch
 timer
 times
 async
-syncs
 synth
-locks
 ghoul
 ghost
 purse
